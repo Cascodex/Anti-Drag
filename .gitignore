@@ -1,0 +1,23 @@
+# Claude
+.claude/
+
+# Build output
+bin/
+obj/
+publish/
+publish-standalone/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docobj
+
+# NuGet
+*.nupkg
+packages/
+
+# OS
+Thumbs.db
+.DS_Store
